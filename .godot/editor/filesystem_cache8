@@ -1,9 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1713978112
+::res://::1714225918
 icon.svg::CompressedTexture2D::486834757255089242::1713977455::1713977455::1::::<><>::
-::res://Character/::1713977469
+::res://Character/::1713978346
 sukiro.gd::GDScript::-1::1713977455::0::1::::<>CharacterBody2D<>::
-sukiro.tscn::PackedScene::652835737650432230::1713977469::0::1::::<><>::res://Character/sukiro.gd<>uid://dax1w0k0jpeky::::res://Character_Assets/Adventurer-1.5/adventurer-v1.5-Sheet.png
+sukiro.tscn::PackedScene::652835737650432230::1713978346::0::1::::<><>::res://Character/sukiro.gd<>uid://dax1w0k0jpeky::::res://Character_Assets/Adventurer-1.5/adventurer-v1.5-Sheet.png
 ::res://Character_Assets/::1713977455
 ::res://Character_Assets/Adventurer-1.5/::1713977455
 adventurer-v1.5-Sheet.png::CompressedTexture2D::7208361998380818724::1713977455::1713977455::1::::<><>::
@@ -117,8 +117,8 @@ adventurer-swrd-shte-02.png::CompressedTexture2D::1573747511786009669::171397745
 adventurer-swrd-shte-03.png::CompressedTexture2D::2819004132466895587::1713977455::1713977455::1::::<><>::
 adventurer-wall-slide-00.png::CompressedTexture2D::3874380917299477806::1713977455::1713977455::1::::<><>::
 adventurer-wall-slide-01.png::CompressedTexture2D::3754360151218312946::1713977455::1713977455::1::::<><>::
-::res://Levels/::1713977469
-level_1.tscn::PackedScene::8414464515414479152::1713977469::0::1::::<><>::uid://brplr0m25wwpt::::res://Map_Assets/oak_woods_v1.0/oak_woods_v1.0/oak_woods_tileset.png<>uid://jkidyiy00on3::::res://Character/sukiro.tscn<>uid://b2dsn5idunwt3::::res://Map_Assets/oak_woods_v1.0/oak_woods_v1.0/background/background_layer_2.png<>uid://vcx61l62444i::::res://Map_Assets/oak_woods_v1.0/oak_woods_v1.0/background/background_layer_3.png<>uid://6eix2xlsi1hd::::res://Map_Assets/oak_woods_v1.0/oak_woods_v1.0/background/background_layer_1.png
+::res://Levels/::1713978346
+level_1.tscn::PackedScene::8414464515414479152::1713978346::0::1::::<><>::uid://brplr0m25wwpt::::res://Map_Assets/oak_woods_v1.0/oak_woods_v1.0/oak_woods_tileset.png<>uid://jkidyiy00on3::::res://Character/sukiro.tscn<>uid://b2dsn5idunwt3::::res://Map_Assets/oak_woods_v1.0/oak_woods_v1.0/background/background_layer_2.png<>uid://vcx61l62444i::::res://Map_Assets/oak_woods_v1.0/oak_woods_v1.0/background/background_layer_3.png<>uid://6eix2xlsi1hd::::res://Map_Assets/oak_woods_v1.0/oak_woods_v1.0/background/background_layer_1.png
 ::res://Map_Assets/::1713977455
 ::res://Map_Assets/oak_woods_v1.0/::1713977455
 ::res://Map_Assets/oak_woods_v1.0/oak_woods_v1.0/::1713977455
